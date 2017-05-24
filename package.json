@@ -24,5 +24,8 @@
   "dependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.4.1"
+  },
+  "devDependencies": {
+    "bcrypt": "^1.0.2"
   }
 }
